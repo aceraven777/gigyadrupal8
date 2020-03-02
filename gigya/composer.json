@@ -1,15 +1,11 @@
 {
-  "name": "gigya/drupal",
-  "description": "Gigya Drupal module",
+  "name": "aceraven777/gigyadrupal8",
+  "description": "Wrapper of Gigya Drupal module",
   "license": "MIT",
   "authors": [
     {
-      "name": "Yuval Perelman",
-      "email": "perelman.yuval@gmail.com"
-    },
-    {
-      "name": "Yan Nasonov",
-      "email": "yan.na@gigya-inc.com"
+      "name": "Aris Lacdao",
+      "email": "aceraven777@gmail.com"
     }
   ],
   "minimum-stability": "dev"
