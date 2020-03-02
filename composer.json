@@ -1,0 +1,12 @@
+{
+  "name": "aceraven777/gigyadrupal8",
+  "description": "Wrapper of Gigya Drupal module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aris Lacdao",
+      "email": "aceraven777@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
